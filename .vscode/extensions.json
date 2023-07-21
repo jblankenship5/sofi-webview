@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dart-code.flutter",
+    "nash.awesome-flutter-snippets",
+    // "robert-brunhage.flutter-riverpod-snippets",
+    "dart-code.dart-code",
+    // "flutterando.flutter-coverage"
+  ]
+}
